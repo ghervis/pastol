@@ -1,0 +1,11 @@
+@font-face {
+    font-family: TLHeader;
+    src: url("TLHeader-Regular-RUS.otf") format("opentype");
+}
+
+.tl-text {
+    background: linear-gradient(118.94deg, #fde6ca -6.67%, rgba(245, 225, 200, 0) 31.81%), linear-gradient(0deg, #c59768, #c59768), #fff;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+}
