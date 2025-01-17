@@ -3,6 +3,11 @@
     --color-red: 230, 50, 75;
     --color-brown: 216, 187, 117;
     --color-yellow: 255, 193, 7;
+    --color-gray: 129, 129, 129;
+    --color-violet: 52, 38, 56;
+
     --color-tnl: 52, 38, 56;
     --color-darker-tnl: 44, 32, 47;
+    --color-text-color: 197, 151, 104;
+    --color-that-color: 224, 172, 118;
 }
