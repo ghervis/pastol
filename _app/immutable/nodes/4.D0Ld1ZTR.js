@@ -1,1 +1,0 @@
-import{a as t,t as p}from"../chunks/DTJaOVNd.js";import"../chunks/BTuvIibI.js";var r=p("<template><div><h1>ICS Calendar</h1> <p>Your calendar data will be served as text/calendar.</p></div></template>");function d(a){var e=r();t(a,e)}export{d as component};
